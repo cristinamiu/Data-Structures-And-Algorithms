@@ -1,8 +1,8 @@
-package com.lab.sorting.quickSort;
+package com.laboratory.sorting.quickSort;
 
 import java.util.Arrays;
 
-import static com.lab.sorting.Test.*;
+import static com.laboratory.sorting.Test.*;
 
 public class QuickSort {
     public static void main(String[] args) {

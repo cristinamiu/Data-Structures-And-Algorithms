@@ -1,4 +1,4 @@
-package com.lab.sorting;
+package com.laboratory.sorting;
 
 public class Test {
     public static int[] getBest() {

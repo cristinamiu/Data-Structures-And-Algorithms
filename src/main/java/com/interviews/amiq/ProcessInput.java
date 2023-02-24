@@ -1,4 +1,4 @@
-package com.lab.practice.interviews.amiq;
+package com.interviews.amiq;
 
 import java.util.ArrayList;
 import java.util.Arrays;

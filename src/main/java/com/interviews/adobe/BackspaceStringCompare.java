@@ -1,4 +1,4 @@
-package com.lab.practice.interviews.adobe;
+package com.interviews.adobe;
 
 import java.util.Stack;
 

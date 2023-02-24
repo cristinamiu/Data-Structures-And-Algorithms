@@ -1,8 +1,8 @@
-package com.lab.sorting.insertionSort;
+package com.laboratory.sorting.insertionSort;
 
 import java.util.Arrays;
 
-import static com.lab.sorting.Test.*;
+import static com.laboratory.sorting.Test.*;
 
 public class InsertionSort {
     public static void main(String[] args) {

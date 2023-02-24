@@ -1,4 +1,4 @@
-package com.lab.practice.interviews.amiq;
+package com.interviews.amiq;
 
 public class Test {
     public static void main(String[] args) {

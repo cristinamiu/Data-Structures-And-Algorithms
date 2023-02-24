@@ -1,8 +1,8 @@
-package com.lab.sorting.bubbleSort;
+package com.laboratory.sorting.bubbleSort;
 
 import java.util.Arrays;
 
-import static com.lab.sorting.Test.*;
+import static com.laboratory.sorting.Test.*;
 
 public class BubbleSort {
     public static void main(String[] args) {

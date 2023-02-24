@@ -1,8 +1,8 @@
-package com.lab.sorting.selectionSort;
+package com.laboratory.sorting.selectionSort;
 
 import java.util.Arrays;
 
-import static com.lab.sorting.Test.*;
+import static com.laboratory.sorting.Test.*;
 
 public class SelectionSort {
     public static void main(String[] args) {
