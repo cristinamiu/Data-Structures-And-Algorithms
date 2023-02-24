@@ -179,7 +179,12 @@ public class MergeSort {
 
 ### 1.5 Quick Sort
 
-Select a random pivot and swap it with the last index.
+Select a random pivot and swap it with the last index. 
+Move values lower than pivot to the left and bigger to the right.
+
+<p align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Quicksort-example.gif"/>
+</p>
 
 ````java
 public class QuickSort {
@@ -207,3 +212,5 @@ public class QuickSort {
     }
 }
 ````
+
+## Lab 2: Linked Lists
